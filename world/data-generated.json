@@ -172,7 +172,7 @@
       "JHU": "Aruba",
       "wikipedia": ""
     },
-    "cases": 2,
+    "cases": 4,
     "recovered": 0,
     "population": null,
     "pcapita": null,
@@ -480,7 +480,7 @@
       "JHU": "Bulgaria",
       "wikipedia": "Bulgaria"
     },
-    "cases": 43,
+    "cases": 51,
     "recovered": 0,
     "population": null,
     "pcapita": null,
@@ -578,7 +578,7 @@
       "JHU": "Cayman Islands",
       "wikipedia": ""
     },
-    "cases": 1,
+    "cases": 2,
     "recovered": 0,
     "population": null,
     "pcapita": null,
@@ -676,7 +676,7 @@
       "JHU": "Colombia",
       "wikipedia": "Colombia"
     },
-    "cases": 24,
+    "cases": 34,
     "recovered": 0,
     "population": null,
     "pcapita": null,
@@ -718,7 +718,7 @@
       "JHU": "Congo (Kinshasa)",
       "wikipedia": ""
     },
-    "cases": 2,
+    "cases": 4,
     "recovered": 0,
     "population": null,
     "pcapita": null,
@@ -746,7 +746,7 @@
       "JHU": "Costa Rica",
       "wikipedia": "Costa Rica"
     },
-    "cases": 26,
+    "cases": 27,
     "recovered": 0,
     "population": null,
     "pcapita": null,
@@ -760,7 +760,7 @@
       "JHU": "Cote d'Ivoire",
       "wikipedia": ""
     },
-    "cases": 1,
+    "cases": 2,
     "recovered": 0,
     "population": null,
     "pcapita": null,
@@ -830,7 +830,7 @@
       "JHU": "Czechia",
       "wikipedia": ""
     },
-    "cases": 189,
+    "cases": 378,
     "recovered": 0,
     "population": null,
     "pcapita": null,
@@ -900,7 +900,7 @@
       "JHU": "Ecuador",
       "wikipedia": "Ecuador"
     },
-    "cases": 28,
+    "cases": 37,
     "recovered": 0,
     "population": null,
     "pcapita": null,
@@ -1068,14 +1068,14 @@
       "JHU": "French Guiana",
       "wikipedia": ""
     },
-    "cases": 5,
+    "cases": 10,
     "recovered": 0,
     "population": null,
     "pcapita": null,
     "active-pcapita": 0,
     "updated": "from JHU",
-    "threshold met": 1,
-    "fill": "#ffC0C0"
+    "threshold met": 10,
+    "fill": "#ee7070"
   },
   ".pf": {
     "names": {
@@ -1236,7 +1236,7 @@
       "JHU": "Guadeloupe",
       "wikipedia": ""
     },
-    "cases": 1,
+    "cases": 2,
     "recovered": 0,
     "population": null,
     "pcapita": null,
@@ -1362,7 +1362,7 @@
       "JHU": "Holy See",
       "wikipedia": ""
     },
-    "cases": 1,
+    "cases": 2,
     "recovered": 0,
     "population": null,
     "pcapita": null,
@@ -1656,14 +1656,14 @@
       "JHU": "Korea, South",
       "wikipedia": ""
     },
-    "cases": 8086,
+    "cases": 16172,
     "recovered": 0,
     "population": null,
     "pcapita": null,
     "active-pcapita": 0,
     "updated": "from JHU",
-    "threshold met": 1000,
-    "fill": "#900000"
+    "threshold met": 10000,
+    "fill": "#510000"
   },
   ".kw": {
     "names": {
@@ -1950,14 +1950,14 @@
       "JHU": "Martinique",
       "wikipedia": ""
     },
-    "cases": 9,
+    "cases": 18,
     "recovered": 0,
     "population": null,
     "pcapita": null,
     "active-pcapita": 0,
     "updated": "from JHU",
-    "threshold met": 1,
-    "fill": "#ffC0C0"
+    "threshold met": 10,
+    "fill": "#ee7070"
   },
   ".mr": {
     "names": {
@@ -2188,14 +2188,14 @@
       "JHU": "Netherlands",
       "wikipedia": ""
     },
-    "cases": 959,
+    "cases": 1918,
     "recovered": 0,
     "population": null,
     "pcapita": null,
     "active-pcapita": 0,
     "updated": "from JHU",
-    "threshold met": 100,
-    "fill": "#c80200"
+    "threshold met": 1000,
+    "fill": "#900000"
   },
   ".nc": {
     "names": {
@@ -2524,14 +2524,14 @@
       "JHU": "Reunion",
       "wikipedia": ""
     },
-    "cases": 6,
+    "cases": 12,
     "recovered": 0,
     "population": null,
     "pcapita": null,
     "active-pcapita": 0,
     "updated": "from JHU",
-    "threshold met": 1,
-    "fill": "#ffC0C0"
+    "threshold met": 10,
+    "fill": "#ee7070"
   },
   ".ro": {
     "names": {
@@ -2664,7 +2664,7 @@
       "JHU": "Saint Vincent and the Grenadines",
       "wikipedia": ""
     },
-    "cases": 1,
+    "cases": 2,
     "recovered": 0,
     "population": null,
     "pcapita": null,
@@ -3294,14 +3294,14 @@
       "JHU": "US",
       "wikipedia": ""
     },
-    "cases": 572,
+    "cases": 1144,
     "recovered": 0,
     "population": null,
     "pcapita": null,
     "active-pcapita": 0,
     "updated": "from JHU",
-    "threshold met": 100,
-    "fill": "#c80200"
+    "threshold met": 1000,
+    "fill": "#900000"
   },
   ".um": {
     "names": {
