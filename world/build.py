@@ -52,14 +52,15 @@ def grabFromTemplate():
 template = grabFromTemplate()
 
 for place in main:
-    for place2 in template:
-        place2 = place2.replace(";", "")
-        if place2.find(main[place]["names"]["JHU"]) > -1:
-            main[place]["names"]["wikipedia"] = place2
-            main[place]["cases"] = template[place2][0]
-            main[place]["recovered"] = template[place2][2]
-            main[place]["updated"] = "from Wikipedia"
-            break
+    if main[place]["updated"] == None:
+        for place2 in template:
+            place2 = place2.replace(";", "")
+            if place2.find(main[place]["names"]["JHU"]) > -1:
+                main[place]["names"]["wikipedia"] = place2
+                main[place]["cases"] = template[place2][0]
+                main[place]["recovered"] = template[place2][2]
+                main[place]["updated"] = "from Wikipedia"
+                break
 
 with urllib.request.urlopen("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv") as response:
     reader = csv.reader(io.TextIOWrapper(response, encoding = "utf-8"), delimiter = ",")
