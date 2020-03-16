@@ -4,14 +4,18 @@
       "JHU": "Afghanistan",
       "wikipedia": "Afghanistan"
     },
-    "cases": 16,
+    "cases": 21,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 34940837,
+    "pcapita": 0.6010159401733851,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".ax": {
     "names": {
@@ -20,8 +24,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 28983,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -32,28 +36,36 @@
       "JHU": "Albania",
       "wikipedia": "Albania"
     },
-    "cases": 42,
+    "cases": 51,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 3020209,
+    "pcapita": 16.88624860067631,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".dz": {
     "names": {
       "JHU": "Algeria",
       "wikipedia": "Algeria"
     },
-    "cases": 45,
+    "cases": 60,
     "recovered": 10,
-    "population": null,
-    "pcapita": null,
+    "population": 41318142,
+    "pcapita": 1.4521466139498722,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".as": {
     "names": {
@@ -62,8 +74,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 55165,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -74,14 +86,18 @@
       "JHU": "Andorra",
       "wikipedia": "Andorra"
     },
-    "cases": 1,
+    "cases": 14,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 76177,
+    "pcapita": 183.78250653084265,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".ao": {
     "names": {
@@ -90,8 +106,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 29784193,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -104,8 +120,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 16086,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -123,7 +139,9 @@
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
-    "fill": "#e0e0e0"
+    "fill": "#e0e0e0",
+    "threshold_pc": 0,
+    "color_pc": "#e0e0e0"
   },
   ".ag": {
     "names": {
@@ -132,40 +150,52 @@
     },
     "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 100963,
+    "pcapita": 9.904618523617563,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".ar": {
     "names": {
       "JHU": "Argentina",
       "wikipedia": "Argentina"
     },
-    "cases": 45,
-    "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "cases": 56,
+    "recovered": 3,
+    "population": 44938712,
+    "pcapita": 1.2461416339658333,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".am": {
     "names": {
       "JHU": "Armenia",
       "wikipedia": "Armenia"
     },
-    "cases": 26,
+    "cases": 30,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 2930450,
+    "pcapita": 10.237335562797522,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".aw": {
     "names": {
@@ -174,40 +204,52 @@
     },
     "cases": 4,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 102911,
+    "pcapita": 38.86853689110008,
     "active-pcapita": 0,
     "updated": "from JHU",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".au": {
     "names": {
       "JHU": "Australia",
       "wikipedia": "Australia"
     },
-    "cases": 299,
+    "cases": 377,
     "recovered": 27,
-    "population": null,
-    "pcapita": null,
+    "population": 23401892,
+    "pcapita": 16.10980855735938,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".at": {
     "names": {
       "JHU": "Austria",
       "wikipedia": "Austria"
     },
-    "cases": 860,
+    "cases": 1018,
     "recovered": 6,
-    "population": null,
-    "pcapita": null,
+    "population": 8809212,
+    "pcapita": 115.56084698608684,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 1000,
+    "color_ca": "#900000",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".az": {
     "names": {
@@ -216,54 +258,70 @@
     },
     "cases": 23,
     "recovered": 6,
-    "population": null,
-    "pcapita": null,
+    "population": 10000000,
+    "pcapita": 2.3,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".bs": {
     "names": {
       "JHU": "Bahamas",
-      "wikipedia": ""
+      "wikipedia": "Bahamas"
     },
-    "cases": 0,
+    "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 377374,
+    "pcapita": 2.6498910894762226,
     "active-pcapita": 0,
-    "updated": null,
+    "updated": "from Wikipedia",
     "threshold met": 0,
-    "fill": "#e0e0e0"
+    "fill": "#e0e0e0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".bh": {
     "names": {
       "JHU": "Bahrain",
       "wikipedia": "Bahrain"
     },
-    "cases": 214,
-    "recovered": 60,
-    "population": null,
-    "pcapita": null,
+    "cases": 221,
+    "recovered": 77,
+    "population": 1332171,
+    "pcapita": 165.894618633794,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".bd": {
     "names": {
       "JHU": "Bangladesh",
       "wikipedia": "Bangladesh"
     },
-    "cases": 5,
-    "recovered": 2,
-    "population": null,
-    "pcapita": null,
+    "cases": 8,
+    "recovered": 3,
+    "population": 156594962,
+    "pcapita": 0.05108721186062167,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.01,
+    "color_pc": "#ffC0C0"
   },
   ".bb": {
     "names": {
@@ -272,8 +330,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 284644,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -284,28 +342,36 @@
       "JHU": "Belarus",
       "wikipedia": "Belarus"
     },
-    "cases": 27,
+    "cases": 36,
     "recovered": 3,
-    "population": null,
-    "pcapita": null,
+    "population": 9494200,
+    "pcapita": 3.791788670978071,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".be": {
     "names": {
       "JHU": "Belgium",
       "wikipedia": "Belgium"
     },
-    "cases": 886,
+    "cases": 1058,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 11150516,
+    "pcapita": 94.88350135545296,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 1000,
+    "color_ca": "#900000",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".bz": {
     "names": {
@@ -314,8 +380,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 374681,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -324,16 +390,20 @@
   ".bj": {
     "names": {
       "JHU": "Benin",
-      "wikipedia": ""
+      "wikipedia": "Benin"
     },
-    "cases": 0,
+    "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 11175692,
+    "pcapita": 0.08947991766415896,
     "active-pcapita": 0,
-    "updated": null,
+    "updated": "from Wikipedia",
     "threshold met": 0,
-    "fill": "#e0e0e0"
+    "fill": "#e0e0e0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 0.01,
+    "color_pc": "#ffC0C0"
   },
   ".bm": {
     "names": {
@@ -342,8 +412,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 65024,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -356,26 +426,34 @@
     },
     "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 753947,
+    "pcapita": 1.3263531786717104,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".bo": {
     "names": {
       "JHU": "Bolivia",
       "wikipedia": "Bolivia"
     },
-    "cases": 10,
+    "cases": 11,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 11051600,
+    "pcapita": 0.995330992797423,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".bq": {
     "names": {
@@ -384,8 +462,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 25019,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -396,14 +474,18 @@
       "JHU": "Bosnia and Herzegovina",
       "wikipedia": "Bosnia and Herzegovina"
     },
-    "cases": 21,
+    "cases": 24,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 3507017,
+    "pcapita": 6.843422772116588,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".bw": {
     "names": {
@@ -412,8 +494,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 2021144,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -426,26 +508,32 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
+    "population": 0,
     "pcapita": null,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
-    "fill": "#e0e0e0"
+    "fill": "#e0e0e0",
+    "threshold_pc": 0,
+    "color_pc": "#e0e0e0"
   },
   ".br": {
     "names": {
       "JHU": "Brazil",
       "wikipedia": "Brazil"
     },
-    "cases": 151,
-    "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "cases": 203,
+    "recovered": 2,
+    "population": 208494900,
+    "pcapita": 0.9736449188925005,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".io": {
     "names": {
@@ -454,54 +542,68 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
+    "population": 0,
     "pcapita": null,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
-    "fill": "#e0e0e0"
+    "fill": "#e0e0e0",
+    "threshold_pc": 0,
+    "color_pc": "#e0e0e0"
   },
   ".bn": {
     "names": {
       "JHU": "Brunei",
       "wikipedia": "Brunei"
     },
-    "cases": 50,
+    "cases": 54,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 417784,
+    "pcapita": 129.25339409838577,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".bg": {
     "names": {
       "JHU": "Bulgaria",
       "wikipedia": "Bulgaria"
     },
-    "cases": 51,
+    "cases": 62,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 7265115,
+    "pcapita": 8.5339323603274,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".bf": {
     "names": {
       "JHU": "Burkina Faso",
       "wikipedia": "Burkina Faso"
     },
-    "cases": 3,
+    "cases": 15,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 19193382,
+    "pcapita": 0.7815193799612804,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".bi": {
     "names": {
@@ -510,8 +612,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 10864245,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -522,42 +624,54 @@
       "JHU": "Cambodia",
       "wikipedia": "Cambodia"
     },
-    "cases": 7,
+    "cases": 12,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 15135169,
+    "pcapita": 0.792855368843255,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".cm": {
     "names": {
       "JHU": "Cameroon",
       "wikipedia": "Cameroon"
     },
-    "cases": 2,
+    "cases": 4,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 24053727,
+    "pcapita": 0.16629439587470166,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".ca": {
     "names": {
       "JHU": "Canada",
       "wikipedia": "Canada"
     },
-    "cases": 252,
+    "cases": 375,
     "recovered": 11,
-    "population": null,
-    "pcapita": null,
+    "population": 35702707,
+    "pcapita": 10.503405245994372,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".cv": {
     "names": {
@@ -566,8 +680,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 546388,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -580,12 +694,16 @@
     },
     "cases": 2,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 58435,
+    "pcapita": 34.226063147086506,
     "active-pcapita": 0,
     "updated": "from JHU",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".cf": {
     "names": {
@@ -594,12 +712,16 @@
     },
     "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 4987640,
+    "pcapita": 0.20049562518545846,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".td": {
     "names": {
@@ -608,8 +730,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 11039873,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -620,28 +742,36 @@
       "JHU": "Chile",
       "wikipedia": "Chile"
     },
-    "cases": 75,
+    "cases": 155,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 18054726,
+    "pcapita": 8.585009819589619,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".cn": {
     "names": {
       "JHU": "China",
       "wikipedia": "China"
     },
-    "cases": 80849,
-    "recovered": 66931,
-    "population": null,
-    "pcapita": null,
+    "cases": 80880,
+    "recovered": 67819,
+    "population": 1409517397,
+    "pcapita": 57.38134213323229,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10000,
-    "fill": "#510000"
+    "fill": "#510000",
+    "threshold_ca": 10000,
+    "color_ca": "#510000",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".cx": {
     "names": {
@@ -650,8 +780,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 1843,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -664,8 +794,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 596,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -676,14 +806,18 @@
       "JHU": "Colombia",
       "wikipedia": "Colombia"
     },
-    "cases": 34,
-    "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "cases": 54,
+    "recovered": 1,
+    "population": 49065615,
+    "pcapita": 1.1005670671813652,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".km": {
     "names": {
@@ -692,8 +826,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 734917,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -702,16 +836,20 @@
   ".cg": {
     "names": {
       "JHU": "Congo",
-      "wikipedia": "Democratic Republic of the Congo"
+      "wikipedia": "DR Congo"
     },
     "cases": 2,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 5260750,
+    "pcapita": 0.38017392957277957,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".cd": {
     "names": {
@@ -720,12 +858,16 @@
     },
     "cases": 4,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 86790567,
+    "pcapita": 0.046087957922892706,
     "active-pcapita": 0,
     "updated": "from JHU",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.01,
+    "color_pc": "#ffC0C0"
   },
   ".ck": {
     "names": {
@@ -734,8 +876,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 17434,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -746,14 +888,18 @@
       "JHU": "Costa Rica",
       "wikipedia": "Costa Rica"
     },
-    "cases": 27,
+    "cases": 35,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 4872166,
+    "pcapita": 7.183663282408687,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".ci": {
     "names": {
@@ -762,26 +908,34 @@
     },
     "cases": 2,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 20316086,
+    "pcapita": 0.0984441589782599,
     "active-pcapita": 0,
     "updated": "from JHU",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.01,
+    "color_pc": "#ffC0C0"
   },
   ".hr": {
     "names": {
       "JHU": "Croatia",
       "wikipedia": "Croatia"
     },
-    "cases": 46,
-    "recovered": 2,
-    "population": null,
-    "pcapita": null,
+    "cases": 56,
+    "recovered": 4,
+    "population": 4105493,
+    "pcapita": 13.640261961230966,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".cu": {
     "names": {
@@ -790,12 +944,16 @@
     },
     "cases": 4,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 11265629,
+    "pcapita": 0.35506228724556793,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".cw": {
     "names": {
@@ -804,8 +962,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 160337,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -816,42 +974,54 @@
       "JHU": "Cyprus",
       "wikipedia": "Cyprus"
     },
-    "cases": 26,
+    "cases": 33,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 1141166,
+    "pcapita": 28.91779110138227,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".cz": {
     "names": {
       "JHU": "Czechia",
       "wikipedia": ""
     },
-    "cases": 378,
+    "cases": 442,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 10649800,
+    "pcapita": 41.50312681928299,
     "active-pcapita": 0,
     "updated": "from JHU",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".dk": {
     "names": {
       "JHU": "Denmark",
       "wikipedia": "Denmark"
     },
-    "cases": 875,
+    "cases": 916,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 5707251,
+    "pcapita": 160.49758456391703,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".dj": {
     "names": {
@@ -860,8 +1030,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 850146,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -874,12 +1044,16 @@
     },
     "cases": 11,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 72003,
+    "pcapita": 152.7714123022652,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".do": {
     "names": {
@@ -888,12 +1062,16 @@
     },
     "cases": 11,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 10403761,
+    "pcapita": 1.0573099478159869,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".ec": {
     "names": {
@@ -902,26 +1080,34 @@
     },
     "cases": 37,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 15737878,
+    "pcapita": 2.351015810390702,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".eg": {
     "names": {
       "JHU": "Egypt",
       "wikipedia": "Egypt"
     },
-    "cases": 110,
-    "recovered": 27,
-    "population": null,
-    "pcapita": null,
+    "cases": 150,
+    "recovered": 32,
+    "population": 94798827,
+    "pcapita": 1.5822980594475078,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".sv": {
     "names": {
@@ -930,8 +1116,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 7332000,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -944,12 +1130,16 @@
     },
     "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 1222442,
+    "pcapita": 0.818034720665684,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".er": {
     "names": {
@@ -958,8 +1148,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 3497117,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -970,28 +1160,36 @@
       "JHU": "Estonia",
       "wikipedia": "Estonia"
     },
-    "cases": 171,
+    "cases": 205,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 1324820,
+    "pcapita": 154.73800214368745,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".et": {
     "names": {
       "JHU": "Ethiopia",
       "wikipedia": "Ethiopia"
     },
-    "cases": 1,
+    "cases": 5,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 104957438,
+    "pcapita": 0.04763835794086361,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.01,
+    "color_pc": "#ffC0C0"
   },
   ".fk": {
     "names": {
@@ -1000,8 +1198,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 4550,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1012,14 +1210,18 @@
       "JHU": "Faroe Islands",
       "wikipedia": ""
     },
-    "cases": 9,
+    "cases": 11,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 49854,
+    "pcapita": 220.6442813014001,
     "active-pcapita": 0,
     "updated": "from JHU",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".fj": {
     "names": {
@@ -1028,8 +1230,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 881065,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1040,42 +1242,54 @@
       "JHU": "Finland",
       "wikipedia": "Finland"
     },
-    "cases": 243,
+    "cases": 278,
     "recovered": 10,
-    "population": null,
-    "pcapita": null,
+    "population": 5501043,
+    "pcapita": 50.53587110662469,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".fr": {
     "names": {
       "JHU": "France",
       "wikipedia": "France"
     },
-    "cases": 4500,
+    "cases": 5423,
     "recovered": 12,
-    "population": null,
-    "pcapita": null,
+    "population": 66628000,
+    "pcapita": 81.3922074803386,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1000,
-    "fill": "#900000"
+    "fill": "#900000",
+    "threshold_ca": 1000,
+    "color_ca": "#900000",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".gf": {
     "names": {
       "JHU": "French Guiana",
       "wikipedia": ""
     },
-    "cases": 10,
+    "cases": 7,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 268700,
+    "pcapita": 26.051358392259026,
     "active-pcapita": 0,
     "updated": "from JHU",
-    "threshold met": 10,
-    "fill": "#ee7070"
+    "threshold met": 1,
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".pf": {
     "names": {
@@ -1084,12 +1298,16 @@
     },
     "cases": 3,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 275918,
+    "pcapita": 10.872795540704121,
     "active-pcapita": 0,
     "updated": "from JHU",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".tf": {
     "names": {
@@ -1098,8 +1316,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 196,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1112,12 +1330,16 @@
     },
     "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 1671711,
+    "pcapita": 0.5981895195999787,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".gm": {
     "names": {
@@ -1126,8 +1348,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 1857181,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1140,40 +1362,52 @@
     },
     "cases": 33,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 3717100,
+    "pcapita": 8.877888676656534,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".de": {
     "names": {
       "JHU": "Germany",
       "wikipedia": "Germany"
     },
-    "cases": 5620,
-    "recovered": 46,
-    "population": null,
-    "pcapita": null,
+    "cases": 7240,
+    "recovered": 65,
+    "population": 82979100,
+    "pcapita": 87.25088606649145,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1000,
-    "fill": "#900000"
+    "fill": "#900000",
+    "threshold_ca": 1000,
+    "color_ca": "#900000",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".gh": {
     "names": {
       "JHU": "Ghana",
       "wikipedia": "Ghana"
     },
-    "cases": 2,
+    "cases": 6,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 28308301,
+    "pcapita": 0.2119519641959438,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".gi": {
     "names": {
@@ -1182,26 +1416,34 @@
     },
     "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 33140,
+    "pcapita": 30.175015087507543,
     "active-pcapita": 0,
     "updated": "from JHU",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".gr": {
     "names": {
       "JHU": "Greece",
       "wikipedia": "Greece"
     },
-    "cases": 331,
+    "cases": 352,
     "recovered": 8,
-    "population": null,
-    "pcapita": null,
+    "population": 10760421,
+    "pcapita": 32.71247472566362,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".gl": {
     "names": {
@@ -1210,8 +1452,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 56081,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1224,8 +1466,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 107825,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1236,56 +1478,72 @@
       "JHU": "Guadeloupe",
       "wikipedia": ""
     },
-    "cases": 2,
+    "cases": 4,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 390253,
+    "pcapita": 10.249761052445464,
     "active-pcapita": 0,
     "updated": "from JHU",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".gu": {
     "names": {
       "JHU": "Guam",
       "wikipedia": ""
     },
-    "cases": 0,
+    "cases": 3,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 161785,
+    "pcapita": 18.54312822573168,
     "active-pcapita": 0,
-    "updated": null,
+    "updated": "from JHU",
     "threshold met": 0,
-    "fill": "#e0e0e0"
+    "fill": "#e0e0e0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".gt": {
     "names": {
       "JHU": "Guatemala",
       "wikipedia": "Guatemala"
     },
-    "cases": 1,
+    "cases": 2,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 15468203,
+    "pcapita": 0.12929750146154664,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".gg": {
     "names": {
       "JHU": "Guernsey",
       "wikipedia": "Guernsey"
     },
-    "cases": 1,
+    "cases": 2,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 65345,
+    "pcapita": 30.606779401637464,
     "active-pcapita": 0,
-    "updated": "from Wikipedia",
+    "updated": "from JHU",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".gn": {
     "names": {
@@ -1294,12 +1552,16 @@
     },
     "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 11628972,
+    "pcapita": 0.08599212380939605,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 0.01,
+    "color_pc": "#ffC0C0"
   },
   ".gw": {
     "names": {
@@ -1308,8 +1570,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 1515000,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1320,14 +1582,18 @@
       "JHU": "Guyana",
       "wikipedia": "Guyana"
     },
-    "cases": 1,
+    "cases": 4,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 799613,
+    "pcapita": 5.002419920636608,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".ht": {
     "names": {
@@ -1336,8 +1602,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 10317461,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1350,12 +1616,14 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
+    "population": 0,
     "pcapita": null,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
-    "fill": "#e0e0e0"
+    "fill": "#e0e0e0",
+    "threshold_pc": 0,
+    "color_pc": "#e0e0e0"
   },
   ".va": {
     "names": {
@@ -1364,138 +1632,178 @@
     },
     "cases": 2,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 1000,
+    "pcapita": 2000.0,
     "active-pcapita": 0,
     "updated": "from JHU",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 1000,
+    "color_pc": "#aa00ff"
   },
   ".hn": {
     "names": {
       "JHU": "Honduras",
       "wikipedia": "Honduras"
     },
-    "cases": 3,
+    "cases": 6,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 8097688,
+    "pcapita": 0.7409522322914887,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".hk": {
     "names": {
       "JHU": "Hong Kong",
       "wikipedia": "Hong Kong"
     },
-    "cases": 148,
+    "cases": 155,
     "recovered": 84,
-    "population": null,
-    "pcapita": null,
+    "population": 7500700,
+    "pcapita": 20.664737957790607,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".hu": {
     "names": {
       "JHU": "Hungary",
       "wikipedia": "Hungary"
     },
-    "cases": 32,
+    "cases": 39,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 9971727,
+    "pcapita": 3.911057733530009,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".is": {
     "names": {
       "JHU": "Iceland",
       "wikipedia": "Iceland"
     },
-    "cases": 171,
+    "cases": 180,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 357050,
+    "pcapita": 504.1310740792606,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".in": {
     "names": {
       "JHU": "India",
       "wikipedia": "India"
     },
-    "cases": 107,
-    "recovered": 10,
-    "population": null,
-    "pcapita": null,
+    "cases": 129,
+    "recovered": 13,
+    "population": 1349217956,
+    "pcapita": 0.09561094219531718,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 0.01,
+    "color_pc": "#ffC0C0"
   },
   ".id": {
     "names": {
       "JHU": "Indonesia",
       "wikipedia": "Indonesia"
     },
-    "cases": 117,
+    "cases": 134,
     "recovered": 8,
-    "population": null,
-    "pcapita": null,
+    "population": 263991379,
+    "pcapita": 0.5075923331572126,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".ir": {
     "names": {
       "JHU": "Iran",
       "wikipedia": "Iran"
     },
-    "cases": 13938,
-    "recovered": 4339,
-    "population": null,
-    "pcapita": null,
+    "cases": 14991,
+    "recovered": 4590,
+    "population": 77447168,
+    "pcapita": 193.56421141183625,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10000,
-    "fill": "#510000"
+    "fill": "#510000",
+    "threshold_ca": 10000,
+    "color_ca": "#510000",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".iq": {
     "names": {
       "JHU": "Iraq",
       "wikipedia": "Iraq"
     },
-    "cases": 110,
+    "cases": 125,
     "recovered": 26,
-    "population": null,
-    "pcapita": null,
+    "population": 33417476,
+    "pcapita": 3.740557784794998,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".ie": {
     "names": {
       "JHU": "Ireland",
       "wikipedia": "Ireland"
     },
-    "cases": 129,
-    "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "cases": 170,
+    "recovered": 5,
+    "population": 4761865,
+    "pcapita": 35.70029809748912,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".im": {
     "names": {
@@ -1504,8 +1812,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 85888,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1516,98 +1824,126 @@
       "JHU": "Israel",
       "wikipedia": "Israel"
     },
-    "cases": 200,
+    "cases": 255,
     "recovered": 4,
-    "population": null,
-    "pcapita": null,
+    "population": 8891800,
+    "pcapita": 28.678107919656313,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".it": {
     "names": {
       "JHU": "Italy",
       "wikipedia": "Italy"
     },
-    "cases": 24747,
-    "recovered": 2335,
-    "population": null,
-    "pcapita": null,
+    "cases": 27980,
+    "recovered": 2749,
+    "population": 60599936,
+    "pcapita": 461.71665923871603,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10000,
-    "fill": "#510000"
+    "fill": "#510000",
+    "threshold_ca": 10000,
+    "color_ca": "#510000",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".jm": {
     "names": {
       "JHU": "Jamaica",
       "wikipedia": "Jamaica"
     },
-    "cases": 8,
-    "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "cases": 10,
+    "recovered": 2,
+    "population": 2890299,
+    "pcapita": 3.4598496556930614,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".jp": {
     "names": {
       "JHU": "Japan",
       "wikipedia": "Japan"
     },
-    "cases": 814,
+    "cases": 895,
     "recovered": 144,
-    "population": null,
-    "pcapita": null,
+    "population": 127110047,
+    "pcapita": 7.041142861035997,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".je": {
     "names": {
       "JHU": "Jersey",
       "wikipedia": "Jersey"
     },
-    "cases": 2,
+    "cases": 4,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 105500,
+    "pcapita": 37.91469194312796,
     "active-pcapita": 0,
-    "updated": "from Wikipedia",
+    "updated": "from JHU",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".jo": {
     "names": {
       "JHU": "Jordan",
       "wikipedia": "Jordan"
     },
-    "cases": 7,
+    "cases": 18,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 10428241,
+    "pcapita": 1.7260820880530092,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".kz": {
     "names": {
       "JHU": "Kazakhstan",
       "wikipedia": "Kazakhstan"
     },
-    "cases": 9,
+    "cases": 10,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 18037646,
+    "pcapita": 0.5543960669812458,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".ke": {
     "names": {
@@ -1616,12 +1952,16 @@
     },
     "cases": 3,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 48468138,
+    "pcapita": 0.06189633280321188,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.01,
+    "color_pc": "#ffC0C0"
   },
   ".ki": {
     "names": {
@@ -1630,8 +1970,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 102351,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1644,8 +1984,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 24052231,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1656,28 +1996,36 @@
       "JHU": "Korea, South",
       "wikipedia": ""
     },
-    "cases": 16172,
+    "cases": 16248,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 51069375,
+    "pcapita": 318.1554503065683,
     "active-pcapita": 0,
     "updated": "from JHU",
-    "threshold met": 10000,
-    "fill": "#510000"
+    "threshold met": 1000,
+    "fill": "#900000",
+    "threshold_ca": 10000,
+    "color_ca": "#510000",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".kw": {
     "names": {
       "JHU": "Kuwait",
       "wikipedia": "Kuwait"
     },
-    "cases": 112,
+    "cases": 123,
     "recovered": 9,
-    "population": null,
-    "pcapita": null,
+    "population": 4660000,
+    "pcapita": 26.394849785407725,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".kg": {
     "names": {
@@ -1686,8 +2034,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 6201500,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1700,8 +2048,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 6769727,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1712,28 +2060,36 @@
       "JHU": "Latvia",
       "wikipedia": "Latvia"
     },
-    "cases": 30,
+    "cases": 34,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 1953000,
+    "pcapita": 17.409114183307732,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".lb": {
     "names": {
       "JHU": "Lebanon",
       "wikipedia": "Lebanon"
     },
-    "cases": 110,
+    "cases": 109,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 4467390,
+    "pcapita": 24.39903388779578,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".ls": {
     "names": {
@@ -1742,8 +2098,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 2233339,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1752,16 +2108,20 @@
   ".lr": {
     "names": {
       "JHU": "Liberia",
-      "wikipedia": ""
+      "wikipedia": "Liberia"
     },
-    "cases": 0,
+    "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 4731906,
+    "pcapita": 0.2113313324482777,
     "active-pcapita": 0,
-    "updated": null,
+    "updated": "from Wikipedia",
     "threshold met": 0,
-    "fill": "#e0e0e0"
+    "fill": "#e0e0e0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".ly": {
     "names": {
@@ -1770,8 +2130,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 5658475,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1784,40 +2144,52 @@
     },
     "cases": 7,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 37922,
+    "pcapita": 184.58942038921998,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".lt": {
     "names": {
       "JHU": "Lithuania",
       "wikipedia": "Lithuania"
     },
-    "cases": 9,
+    "cases": 17,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 2790842,
+    "pcapita": 6.091351642264234,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".lu": {
     "names": {
       "JHU": "Luxembourg",
       "wikipedia": "Luxembourg"
     },
-    "cases": 51,
+    "cases": 81,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 613900,
+    "pcapita": 131.9433132431992,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".mo": {
     "names": {
@@ -1826,12 +2198,16 @@
     },
     "cases": 11,
     "recovered": 10,
-    "population": null,
-    "pcapita": null,
+    "population": 566375,
+    "pcapita": 19.421761200617965,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".mk": {
     "names": {
@@ -1840,12 +2216,16 @@
     },
     "cases": 19,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 2075301,
+    "pcapita": 9.155298436226841,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".mg": {
     "names": {
@@ -1854,8 +2234,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 22924851,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1868,8 +2248,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 18622104,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1880,14 +2260,18 @@
       "JHU": "Malaysia",
       "wikipedia": "Malaysia"
     },
-    "cases": 428,
+    "cases": 566,
     "recovered": 42,
-    "population": null,
-    "pcapita": null,
+    "population": 31624264,
+    "pcapita": 17.897649728701985,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".mv": {
     "names": {
@@ -1896,12 +2280,16 @@
     },
     "cases": 13,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 345023,
+    "pcapita": 37.678647510455825,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".ml": {
     "names": {
@@ -1910,8 +2298,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 18541980,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1924,12 +2312,16 @@
     },
     "cases": 21,
     "recovered": 2,
-    "population": null,
-    "pcapita": null,
+    "population": 423374,
+    "pcapita": 49.60153434079561,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".mh": {
     "names": {
@@ -1938,8 +2330,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 52634,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1952,12 +2344,16 @@
     },
     "cases": 18,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 372594,
+    "pcapita": 48.309956682072176,
     "active-pcapita": 0,
     "updated": "from JHU",
-    "threshold met": 10,
-    "fill": "#ee7070"
+    "threshold met": 1,
+    "fill": "#ffC0C0",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".mr": {
     "names": {
@@ -1966,12 +2362,16 @@
     },
     "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 3537368,
+    "pcapita": 0.28269606102616407,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".mu": {
     "names": {
@@ -1980,8 +2380,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 1258653,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -1992,28 +2392,36 @@
       "JHU": "Mayotte",
       "wikipedia": ""
     },
-    "cases": 0,
+    "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 256518,
+    "pcapita": 3.8983619083261214,
     "active-pcapita": 0,
-    "updated": null,
+    "updated": "from JHU",
     "threshold met": 0,
-    "fill": "#e0e0e0"
+    "fill": "#e0e0e0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".mx": {
     "names": {
       "JHU": "Mexico",
       "wikipedia": "Mexico"
     },
-    "cases": 41,
+    "cases": 53,
     "recovered": 4,
-    "population": null,
-    "pcapita": null,
+    "population": 130526945,
+    "pcapita": 0.40604642972376315,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".fm": {
     "names": {
@@ -2022,8 +2430,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 103549,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2034,28 +2442,36 @@
       "JHU": "Moldova",
       "wikipedia": "Moldova"
     },
-    "cases": 12,
+    "cases": 23,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 2550900,
+    "pcapita": 9.016425575287153,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".mc": {
     "names": {
       "JHU": "Monaco",
       "wikipedia": "Monaco"
     },
-    "cases": 2,
+    "cases": 9,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 37831,
+    "pcapita": 237.9001348100764,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".mn": {
     "names": {
@@ -2064,12 +2480,16 @@
     },
     "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 3081678,
+    "pcapita": 0.3244985361871033,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".me": {
     "names": {
@@ -2078,8 +2498,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 622359,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2092,8 +2512,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 5215,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2104,14 +2524,18 @@
       "JHU": "Morocco",
       "wikipedia": "Morocco"
     },
-    "cases": 28,
+    "cases": 29,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 36029138,
+    "pcapita": 0.8049040751405154,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".mz": {
     "names": {
@@ -2120,8 +2544,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 25833752,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2134,8 +2558,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 53259018,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2148,12 +2572,16 @@
     },
     "cases": 2,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 2303315,
+    "pcapita": 0.8683137130613919,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".nr": {
     "names": {
@@ -2162,8 +2590,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 13650,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2176,26 +2604,34 @@
     },
     "cases": 1,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 29400000,
+    "pcapita": 0.034013605442176874,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 0.01,
+    "color_pc": "#ffC0C0"
   },
   ".nl": {
     "names": {
       "JHU": "Netherlands",
       "wikipedia": ""
     },
-    "cases": 1918,
+    "cases": 2094,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 17100715,
+    "pcapita": 122.45102032283445,
     "active-pcapita": 0,
     "updated": "from JHU",
-    "threshold met": 1000,
-    "fill": "#900000"
+    "threshold met": 100,
+    "fill": "#c80200",
+    "threshold_ca": 1000,
+    "color_ca": "#900000",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".nc": {
     "names": {
@@ -2204,8 +2640,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 278500,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2218,12 +2654,16 @@
     },
     "cases": 8,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 4885300,
+    "pcapita": 1.6375657584999899,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".ni": {
     "names": {
@@ -2232,8 +2672,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 6217581,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2246,12 +2686,16 @@
     },
     "cases": 2,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 17138707,
+    "pcapita": 0.11669491753374393,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".ng": {
     "names": {
@@ -2260,12 +2704,16 @@
     },
     "cases": 2,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 190886311,
+    "pcapita": 0.010477440679337136,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.01,
+    "color_pc": "#ffC0C0"
   },
   ".nu": {
     "names": {
@@ -2274,8 +2722,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 1612,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2288,8 +2736,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 1748,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2302,8 +2750,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 53855,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2314,42 +2762,54 @@
       "JHU": "Norway",
       "wikipedia": "Norway"
     },
-    "cases": 1212,
+    "cases": 1323,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 5367580,
+    "pcapita": 246.47979163794486,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1000,
-    "fill": "#900000"
+    "fill": "#900000",
+    "threshold_ca": 1000,
+    "color_ca": "#900000",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".om": {
     "names": {
       "JHU": "Oman",
       "wikipedia": "Oman"
     },
-    "cases": 20,
+    "cases": 22,
     "recovered": 9,
-    "population": null,
-    "pcapita": null,
+    "population": 3632444,
+    "pcapita": 6.056528331888943,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".pk": {
     "names": {
       "JHU": "Pakistan",
       "wikipedia": "Pakistan"
     },
-    "cases": 53,
+    "cases": 179,
     "recovered": 2,
-    "population": null,
-    "pcapita": null,
+    "population": 197015955,
+    "pcapita": 0.9085558578237991,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".pw": {
     "names": {
@@ -2358,8 +2818,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 20918,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2370,28 +2830,36 @@
       "JHU": "Palestine",
       "wikipedia": "Palestine"
     },
-    "cases": 38,
+    "cases": 39,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 4684777,
+    "pcapita": 8.324835952703832,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".pa": {
     "names": {
       "JHU": "Panama",
       "wikipedia": "Panama"
     },
-    "cases": 43,
+    "cases": 55,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 3864170,
+    "pcapita": 14.233328243840203,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".pg": {
     "names": {
@@ -2400,8 +2868,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 7321262,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2412,42 +2880,54 @@
       "JHU": "Paraguay",
       "wikipedia": "Paraguay"
     },
-    "cases": 7,
+    "cases": 8,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 6802295,
+    "pcapita": 1.1760736633739055,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".pe": {
     "names": {
       "JHU": "Peru",
       "wikipedia": "Peru"
     },
-    "cases": 38,
-    "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "cases": 86,
+    "recovered": 1,
+    "population": 30375603,
+    "pcapita": 2.831219515214233,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".ph": {
     "names": {
       "JHU": "Philippines",
       "wikipedia": "Philippines"
     },
-    "cases": 140,
-    "recovered": 2,
-    "population": null,
-    "pcapita": null,
+    "cases": 142,
+    "recovered": 3,
+    "population": 100981437,
+    "pcapita": 1.4061990423051713,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".pn": {
     "names": {
@@ -2456,8 +2936,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 50,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2468,112 +2948,144 @@
       "JHU": "Poland",
       "wikipedia": "Poland"
     },
-    "cases": 119,
-    "recovered": 13,
-    "population": null,
-    "pcapita": null,
+    "cases": 156,
+    "recovered": 0,
+    "population": 38454576,
+    "pcapita": 4.056734366281922,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".pt": {
     "names": {
       "JHU": "Portugal",
       "wikipedia": "Portugal"
     },
-    "cases": 245,
-    "recovered": 2,
-    "population": null,
-    "pcapita": null,
+    "cases": 331,
+    "recovered": 3,
+    "population": 10600000,
+    "pcapita": 31.22641509433962,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".pr": {
     "names": {
       "JHU": "Puerto Rico",
       "wikipedia": ""
     },
-    "cases": 3,
+    "cases": 5,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 3615086,
+    "pcapita": 1.3830929609973317,
     "active-pcapita": 0,
     "updated": "from JHU",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".qa": {
     "names": {
       "JHU": "Qatar",
       "wikipedia": "Qatar"
     },
-    "cases": 401,
+    "cases": 802,
     "recovered": 4,
-    "population": null,
-    "pcapita": null,
+    "population": 2168673,
+    "pcapita": 369.8114007967084,
     "active-pcapita": 0,
-    "updated": "from Wikipedia",
+    "updated": "from JHU",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".re": {
     "names": {
       "JHU": "Reunion",
       "wikipedia": ""
     },
-    "cases": 12,
+    "cases": 13,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 853659,
+    "pcapita": 15.22856316163714,
     "active-pcapita": 0,
     "updated": "from JHU",
-    "threshold met": 10,
-    "fill": "#ee7070"
+    "threshold met": 1,
+    "fill": "#ffC0C0",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".ro": {
     "names": {
       "JHU": "Romania",
       "wikipedia": "Romania"
     },
-    "cases": 139,
+    "cases": 168,
     "recovered": 9,
-    "population": null,
-    "pcapita": null,
+    "population": 19586539,
+    "pcapita": 8.577319351826272,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".ru": {
     "names": {
       "JHU": "Russia",
       "wikipedia": "Russia"
     },
-    "cases": 63,
-    "recovered": 8,
-    "population": null,
-    "pcapita": null,
+    "cases": 93,
+    "recovered": 4,
+    "population": 146804372,
+    "pcapita": 0.6334961195842315,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".rw": {
     "names": {
       "JHU": "Rwanda",
       "wikipedia": "Rwanda"
     },
-    "cases": 1,
+    "cases": 5,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 12208407,
+    "pcapita": 0.40955384269217104,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".bl": {
     "names": {
@@ -2582,8 +3094,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 9625,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2596,8 +3108,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 4534,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2610,8 +3122,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 54191,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2624,12 +3136,16 @@
     },
     "cases": 2,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 178844,
+    "pcapita": 11.182930375075484,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".mf": {
     "names": {
@@ -2638,8 +3154,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 35684,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2652,8 +3168,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 6057,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2666,12 +3182,16 @@
     },
     "cases": 2,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 109373,
+    "pcapita": 18.28604865917548,
     "active-pcapita": 0,
     "updated": "from JHU",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".ws": {
     "names": {
@@ -2680,8 +3200,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 190372,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2692,14 +3212,18 @@
       "JHU": "San Marino",
       "wikipedia": "San Marino"
     },
-    "cases": 101,
+    "cases": 115,
     "recovered": 4,
-    "population": null,
-    "pcapita": null,
+    "population": 31595,
+    "pcapita": 3639.8164266497865,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 1000,
+    "color_pc": "#aa00ff"
   },
   ".st": {
     "names": {
@@ -2708,8 +3232,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 192993,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2720,14 +3244,18 @@
       "JHU": "Saudi Arabia",
       "wikipedia": "Saudi Arabia"
     },
-    "cases": 103,
-    "recovered": 2,
-    "population": null,
-    "pcapita": null,
+    "cases": 118,
+    "recovered": 3,
+    "population": 33000000,
+    "pcapita": 3.5757575757575757,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".sn": {
     "names": {
@@ -2736,40 +3264,52 @@
     },
     "cases": 24,
     "recovered": 2,
-    "population": null,
-    "pcapita": null,
+    "population": 14133280,
+    "pcapita": 1.698119615545719,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".rs": {
     "names": {
       "JHU": "Serbia",
       "wikipedia": "Serbia"
     },
-    "cases": 48,
-    "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "cases": 55,
+    "recovered": 1,
+    "population": 7022268,
+    "pcapita": 7.832227422821231,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".sc": {
     "names": {
       "JHU": "Seychelles",
       "wikipedia": "Seychelles"
     },
-    "cases": 2,
+    "cases": 3,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 95843,
+    "pcapita": 31.301190488611585,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".sl": {
     "names": {
@@ -2778,8 +3318,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 7557212,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2790,14 +3330,18 @@
       "JHU": "Singapore",
       "wikipedia": "Singapore"
     },
-    "cases": 226,
-    "recovered": 105,
-    "population": null,
-    "pcapita": null,
+    "cases": 243,
+    "recovered": 109,
+    "population": 5888926,
+    "pcapita": 41.26389090302714,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".sx": {
     "names": {
@@ -2806,8 +3350,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 37132,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2818,28 +3362,36 @@
       "JHU": "Slovakia",
       "wikipedia": "Slovakia"
     },
-    "cases": 54,
+    "cases": 63,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 5439892,
+    "pcapita": 11.581112272081873,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".si": {
     "names": {
       "JHU": "Slovenia",
       "wikipedia": "Slovenia"
     },
-    "cases": 219,
+    "cases": 253,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 2066880,
+    "pcapita": 122.40671930639418,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".sb": {
     "names": {
@@ -2848,8 +3400,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 561231,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2858,30 +3410,38 @@
   ".so": {
     "names": {
       "JHU": "Somalia",
-      "wikipedia": ""
+      "wikipedia": "Somalia"
     },
-    "cases": 0,
+    "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 11031386,
+    "pcapita": 0.09065044047955534,
     "active-pcapita": 0,
-    "updated": null,
+    "updated": "from Wikipedia",
     "threshold met": 0,
-    "fill": "#e0e0e0"
+    "fill": "#e0e0e0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 0.01,
+    "color_pc": "#ffC0C0"
   },
   ".za": {
     "names": {
       "JHU": "South Africa",
       "wikipedia": "South Africa"
     },
-    "cases": 51,
+    "cases": 64,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 57725600,
+    "pcapita": 1.1086935432459775,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".gs": {
     "names": {
@@ -2890,8 +3450,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 30,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2904,8 +3464,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 12575714,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -2916,28 +3476,36 @@
       "JHU": "Spain",
       "wikipedia": "Spain"
     },
-    "cases": 7798,
-    "recovered": 517,
-    "population": null,
-    "pcapita": null,
+    "cases": 9928,
+    "recovered": 530,
+    "population": 46528024,
+    "pcapita": 213.37678127057362,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1000,
-    "fill": "#900000"
+    "fill": "#900000",
+    "threshold_ca": 1000,
+    "color_ca": "#900000",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".lk": {
     "names": {
       "JHU": "Sri Lanka",
       "wikipedia": "Sri Lanka"
     },
-    "cases": 11,
+    "cases": 28,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 21444000,
+    "pcapita": 1.305726543555307,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".sd": {
     "names": {
@@ -2946,12 +3514,16 @@
     },
     "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 40533330,
+    "pcapita": 0.024671054660448576,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 0.01,
+    "color_pc": "#ffC0C0"
   },
   ".sr": {
     "names": {
@@ -2960,12 +3532,16 @@
     },
     "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 539276,
+    "pcapita": 1.8543380384070494,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".sj": {
     "names": {
@@ -2979,7 +3555,9 @@
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
-    "fill": "#e0e0e0"
+    "fill": "#e0e0e0",
+    "threshold_pc": 0,
+    "color_pc": "#e0e0e0"
   },
   ".sz": {
     "names": {
@@ -2988,8 +3566,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 1367254,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3000,28 +3578,36 @@
       "JHU": "Sweden",
       "wikipedia": "Sweden"
     },
-    "cases": 1024,
+    "cases": 1111,
     "recovered": 1,
-    "population": null,
-    "pcapita": null,
+    "population": 10327589,
+    "pcapita": 107.57593083923072,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1000,
-    "fill": "#900000"
+    "fill": "#900000",
+    "threshold_ca": 1000,
+    "color_ca": "#900000",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".ch": {
     "names": {
       "JHU": "Switzerland",
       "wikipedia": "Switzerland"
     },
-    "cases": 1563,
+    "cases": 2353,
     "recovered": 4,
-    "population": null,
-    "pcapita": null,
+    "population": 8211700,
+    "pcapita": 286.542372468551,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1000,
-    "fill": "#900000"
+    "fill": "#900000",
+    "threshold_ca": 1000,
+    "color_ca": "#900000",
+    "threshold_pc": 100,
+    "color_pc": "#510000"
   },
   ".sy": {
     "names": {
@@ -3030,8 +3616,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 19809141,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3042,14 +3628,18 @@
       "JHU": "Taiwan",
       "wikipedia": "Taiwan"
     },
-    "cases": 59,
-    "recovered": 20,
-    "population": null,
-    "pcapita": null,
+    "cases": 67,
+    "recovered": 22,
+    "population": 23593794,
+    "pcapita": 2.839729803523757,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".tj": {
     "names": {
@@ -3058,8 +3648,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 8921343,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3068,30 +3658,38 @@
   ".tz": {
     "names": {
       "JHU": "Tanzania",
-      "wikipedia": ""
+      "wikipedia": "Tanzania"
     },
-    "cases": 0,
+    "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 57310019,
+    "pcapita": 0.017448956001916524,
     "active-pcapita": 0,
-    "updated": null,
+    "updated": "from Wikipedia",
     "threshold met": 0,
-    "fill": "#e0e0e0"
+    "fill": "#e0e0e0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 0.01,
+    "color_pc": "#ffC0C0"
   },
   ".th": {
     "names": {
       "JHU": "Thailand",
       "wikipedia": "Thailand"
     },
-    "cases": 114,
-    "recovered": 37,
-    "population": null,
-    "pcapita": null,
+    "cases": 147,
+    "recovered": 38,
+    "population": 65931550,
+    "pcapita": 2.2295850772505728,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 100,
-    "fill": "#c80200"
+    "fill": "#c80200",
+    "threshold_ca": 100,
+    "color_ca": "#c80200",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".tl": {
     "names": {
@@ -3100,8 +3698,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 1180069,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3114,12 +3712,16 @@
     },
     "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 6337000,
+    "pcapita": 0.15780337699226762,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".tk": {
     "names": {
@@ -3128,8 +3730,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 1499,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3142,8 +3744,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 105323,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3154,42 +3756,54 @@
       "JHU": "Trinidad and Tobago",
       "wikipedia": "Trinidad and Tobago"
     },
-    "cases": 2,
+    "cases": 4,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 1341151,
+    "pcapita": 2.9825127819313413,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".tn": {
     "names": {
       "JHU": "Tunisia",
       "wikipedia": "Tunisia"
     },
-    "cases": 18,
+    "cases": 20,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 11565204,
+    "pcapita": 1.7293253106473523,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".tr": {
     "names": {
       "JHU": "Turkey",
       "wikipedia": "Turkey"
     },
-    "cases": 6,
+    "cases": 18,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 82003882,
+    "pcapita": 0.21950180358534735,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".tm": {
     "names": {
@@ -3198,8 +3812,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 5125693,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3212,8 +3826,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 33098,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3226,8 +3840,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 9876,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3240,8 +3854,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 42862958,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3252,56 +3866,72 @@
       "JHU": "Ukraine",
       "wikipedia": "Ukraine"
     },
-    "cases": 3,
+    "cases": 5,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 42558328,
+    "pcapita": 0.11748581852181787,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".ae": {
     "names": {
       "JHU": "United Arab Emirates",
       "wikipedia": "United Arab Emirates"
     },
-    "cases": 86,
-    "recovered": 23,
-    "population": null,
-    "pcapita": null,
+    "cases": 98,
+    "recovered": 26,
+    "population": 9346129,
+    "pcapita": 10.485624583183048,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".gb": {
     "names": {
       "JHU": "United Kingdom",
       "wikipedia": "United Kingdom"
     },
-    "cases": 1372,
+    "cases": 1551,
     "recovered": 19,
-    "population": null,
-    "pcapita": null,
+    "population": 65102385,
+    "pcapita": 23.82401197744138,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1000,
-    "fill": "#900000"
+    "fill": "#900000",
+    "threshold_ca": 1000,
+    "color_ca": "#900000",
+    "threshold_pc": 10,
+    "color_pc": "#900000"
   },
   ".us": {
     "names": {
       "JHU": "US",
       "wikipedia": ""
     },
-    "cases": 1144,
+    "cases": 1215,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 325145963,
+    "pcapita": 3.736783285849992,
     "active-pcapita": 0,
     "updated": "from JHU",
-    "threshold met": 1000,
-    "fill": "#900000"
+    "threshold met": 100,
+    "fill": "#c80200",
+    "threshold_ca": 1000,
+    "color_ca": "#900000",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".um": {
     "names": {
@@ -3310,8 +3940,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 300,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3322,28 +3952,36 @@
       "JHU": "Uruguay",
       "wikipedia": "Uruguay"
     },
-    "cases": 6,
+    "cases": 8,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 3407062,
+    "pcapita": 2.3480641091943735,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".uz": {
     "names": {
       "JHU": "Uzbekistan",
       "wikipedia": "Uzbekistan"
     },
-    "cases": 1,
+    "cases": 8,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 32387200,
+    "pcapita": 0.2470111649046537,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 1,
+    "color_ca": "#ffC0C0",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".vu": {
     "names": {
@@ -3352,8 +3990,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 276244,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3364,28 +4002,36 @@
       "JHU": "Venezuela",
       "wikipedia": "Venezuela"
     },
-    "cases": 10,
+    "cases": 17,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 28515829,
+    "pcapita": 0.5961601186484882,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".vn": {
     "names": {
       "JHU": "Vietnam",
       "wikipedia": "Vietnam"
     },
-    "cases": 56,
+    "cases": 61,
     "recovered": 16,
-    "population": null,
-    "pcapita": null,
+    "population": 94660000,
+    "pcapita": 0.6444115782801606,
     "active-pcapita": 0,
     "updated": "from Wikipedia",
     "threshold met": 10,
-    "fill": "#ee7070"
+    "fill": "#ee7070",
+    "threshold_ca": 10,
+    "color_ca": "#ee7070",
+    "threshold_pc": 0.1,
+    "color_pc": "#ee7070"
   },
   ".vg": {
     "names": {
@@ -3394,8 +4040,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 31758,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3408,12 +4054,16 @@
     },
     "cases": 1,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 104901,
+    "pcapita": 9.53279759010877,
     "active-pcapita": 0,
     "updated": "from JHU",
     "threshold met": 1,
-    "fill": "#ffC0C0"
+    "fill": "#ffC0C0",
+    "threshold_ca": 0,
+    "color_ca": "#e0e0e0",
+    "threshold_pc": 1,
+    "color_pc": "#c80200"
   },
   ".wf": {
     "names": {
@@ -3422,8 +4072,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 12197,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3436,8 +4086,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 502585,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3450,8 +4100,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 26183676,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3464,8 +4114,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 17094130,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,
@@ -3478,8 +4128,8 @@
     },
     "cases": 0,
     "recovered": 0,
-    "population": null,
-    "pcapita": null,
+    "population": 14149648,
+    "pcapita": 0.0,
     "active-pcapita": 0,
     "updated": null,
     "threshold met": 0,

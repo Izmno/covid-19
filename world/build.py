@@ -1,5 +1,5 @@
 # Created by Chang Chia-huan
-import argparse, json, re, csv, urllib.request, io, datetime, math
+import argparse, json, re, csv, urllib.request, io, datetime, math, requests
 
 parser = argparse.ArgumentParser(description = "This script generates an svg map for the COVID-19 outbreak globally")
 parser.add_argument("-c", "--count", help = "Generate case count map", action = "store_const", const = "count", dest = "type")
@@ -51,6 +51,24 @@ def grabFromTemplate():
     return outData
 template = grabFromTemplate()
 
+def getPopulationData():
+    url = 'https://query.wikidata.org/sparql'
+    query = '''
+        SELECT ?isocode ?population WHERE {
+        ?country wdt:P1082 ?population.
+        ?country wdt:P297 ?isocode
+        }
+    '''
+    response = requests.get(url, params = {'format': 'json', 'query': query})
+    return { p['isocode']['value'] : int(p['population']['value']) for p in response.json()['results']['bindings'] }
+
+population_data = getPopulationData()
+## Population data
+for place, data in main.items():
+    code = place[1:].upper()
+    population = population_data.get(code, None)
+    data['population'] = population
+
 for place in main:
     if main[place]["updated"] == None:
         for place2 in template:
@@ -84,31 +102,55 @@ with urllib.request.urlopen("https://raw.githubusercontent.com/CSSEGISandData/CO
                     main[place]["updated"] = "from JHU"
                     break
 
+## Calculate population cases per capita:
+for place, data in main.items():
+    try: 
+        data['pcapita'] = 1000000 * data['cases'] / data['population']
+    except:
+        data['pcapita'] = None
+
 thresholds = [0, 1, 10, 100, 1000, 10000]
-colours = ["#e0e0e0", "#ffC0C0","#ee7070","#c80200","#900000","#510000"]
+thresholds_pc = [0, 0.01, 0.1, 1, 10, 100, 1000]
+colours = ["#e0e0e0", "#ffC0C0","#ee7070","#c80200","#900000","#510000", "#aa00ff"]
+
+## Calculate thresholds
+for place, data in main.items():
+    for idx, value in enumerate(thresholds):
+        try:
+            if data['cases'] > value:
+                data['threshold_ca'] = value
+                data['color_ca'] = colours[idx]
+        except:
+            data['cthreshold'] = 0
+            data['color_ca'] = colours[0]
+    for idx, value in enumerate(thresholds_pc):
+        try:
+            if data['pcapita'] > value:
+                data['threshold_pc'] = value
+                data['color_pc'] = colours[idx]
+        except:
+            data['threshold_pc'] = 0
+            data['color_pc'] = colours[0]
+
+## Calculate color maps
+color_map_ca = { 
+    color : [place for place, data in main.items() if data.get('color_ca', colours[0]) == color] 
+    for color in colours
+}
+
+color_map_pc = { 
+    color : [place for place, data in main.items() if data.get('color_pc', colours[0]) == color] 
+    for color in colours
+}
+
 
 with open("template.svg", "r", newline = "", encoding = "utf-8") as file_in:
     with open(get_value("counts.svg", "per-capita.svg"), "w", newline = "", encoding = "utf-8") as file_out:
-        r = 0
-        for row in file_in:
-            r += 1
+        for r, row in enumerate(file_in):
             if r == 158:
-                list = [[], [], [], [], [], []]
-                for place, attrs in main.items():
-                    i = 0
-                    while i < 5:
-                        if get_value(attrs["cases"], attrs["pcapita"]) >= thresholds[i + 1]:
-                            i += 1
-                        else:
-                            break
-                    main[place]["threshold met"] = thresholds[i]
-                    main[place]["fill"] = colours[i]
-                    list[i].append(place)
-                for i in range(6):
-                    file_out.write(", ".join(list[i]) + "\n")
-                    file_out.write("{" + "\n")
-                    file_out.write("   fill:" + colours[i] + ";\n")
-                    file_out.write("}" + "\n")
+                color_map = get_value(color_map_ca, color_map_pc)
+                for color, places in color_map.items():
+                    file_out.write(f"{', '.join(places)}\n{{\n   fill:{color};\n}}\n")
             else:
                 file_out.write(row)
 
